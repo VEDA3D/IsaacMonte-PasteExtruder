@@ -1,1 +1,24 @@
+Bill of materials - StonePaper Paste Extrusion System
 
+Cartridge and hose:
++ 1pcs - Transparent PVC tube 110mm x 5.3mm x 10000mm - Source: https://www.pvchoogeveen.nl/p/pvc-u-drukbuis-transparant-lengte-1000mm-incl-btw/
++ 6pcs - Threaded rod M8 x 1000mm - Source: https://www.rvspaleis.nl/bouten/draadeind/draadeind-[-]-a2-[-]-per-stuk/976-2-8x1000_1
++ 6pcs - Hexagon bolt M8 x 90mm - Source: https://www.rvspaleis.nl/bouten/buitenzeskant/din-933/din-933-[-]-a2/din-933-[-]-a2-[-]-m8/933-2-8x90_1
++ 6pcs - Hexagon domed cap nuts M8 - Source: https://www.rvspaleis.nl/moeren/dopmoeren/din-1587/din-1587-[-]-a2/din-1587-[-]-a2-[-]-m8
++ 12pcs - Plain washer M8 - Source: https://www.rvspaleis.nl/ringen/sluitring/ws-9240/ws-9240-[-]-a2/ws-9240-[-]-a2-[-]-m8
++ 6pcs - Hexagon nut long M8 - Source: https://www.rvspaleis.nl/moeren/zeskant-moeren/din-6334/din-6334-[-]-a2/din-6334-[-]-a2-[-]-m8
++ 1pcs - PVC pressure vessel nut 1.5" - Source: https://www.pvchoogeveen.nl/p/druk-pvc-moer/
++ 1pcs - PVC pressure vessel threaded nippel 1.5"-1" - Source: https://www.pvchoogeveen.nl/p/druk-pvc-draadnippel-verloop-2x-buitendraad/
++ 1pcs - PVC pressure vessel hose barb swivel with inner thread 20mm-1": Source: https://www.pvchoogeveen.nl/p/slangpilaar-x-wartel-met-binnendraad-rubber-afdichtingsring/
++ 1pcs - PVC hose polyester reinforced 20mm x 28mm - Source: https://www.rubbermagazijn.nl/pvc-slang-m-inl-20x28mm-l-50m_transparant_14852.html
++ 1pcs - O-ring NBR 100mm x 5mm - Source: https://tameson.nl/products/s26pa-x10-nbr-o-ring-100-x-5-mm-70-shore-a-10-stuks
++ 1pcs - Cartridge bottom - 3D printed in petG - Source: https://github.com/VEDA3D/IsaacMonte-PasteExtruder/blob/main/STL/StonePaper-Extrusion-System_V1_V2%20-%20Cartridge_D110%5EStonePaper-Extrusion-System_V3-1%20Bottom_Cartridge%5ECartridge_D110_StonePaper-Extrusion-System_V3-1.STL
++ 1pcs - Cartridge middle - 3D printed in petG - Source: https://github.com/VEDA3D/IsaacMonte-PasteExtruder/blob/main/STL/StonePaper-Extrusion-System_V1_V2%20-%20Cartridge_D110%5EStonePaper-Extrusion-System_V3-1%20Middle_Cartridge%5ECartridge_D110_StonePaper-Extrusion-System_V3-1.STL
++ 1pcs - Cartridge top - 3D printed in petG - Source: https://github.com/VEDA3D/IsaacMonte-PasteExtruder/blob/main/STL/StonePaper-Extrusion-System_V1_V2%20-%20Cartridge_D110%5EStonePaper-Extrusion-System_V3-1%20Top_Cartridge%5ECartridge_D110_StonePaper-Extrusion-System_V3-1.STL
+
+Plunger mechanism:
++ 1pcs - Plunger bottom - 3D printed in petG - Source: https://github.com/VEDA3D/IsaacMonte-PasteExtruder/blob/main/STL/StonePaper-Extrusion-System_V1_V2%20-%20Plunger_Bottom%5EStonePaper-Extrusion-System_V1_V2-1.STL
++ 2pcs - O-ring NBR 75mm x 5mm - Source: https://tameson.nl/products/s25yu-x20-nbr-o-ring-75-x-5-mm-70-shore-a-20-stuks
++ 4pcs - Hexagon bolt M8 x 120mm - Source: https://www.rvspaleis.nl/bouten/buitenzeskant/din-933/din-933-[-]-a2/din-933-[-]-a2-[-]-m8/933-2-8x120_1
++ 4pcs - Washer M8 - Source: https://www.rvspaleis.nl/ringen/sluitring/din-125a/din-125a-[-]-a2/din-125a-[-]-a2-[-]-m8/125-2-8_1
++ 4pcs - Hexagon nut M8 - Source: https://www.rvspaleis.nl/moeren/zeskant-moeren/din-934/din-934-[-]-a2/din-934-[-]-a2-[-]-m8
