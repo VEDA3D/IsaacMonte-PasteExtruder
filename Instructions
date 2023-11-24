@@ -1,1 +1,14 @@
+Instructions - StonePaper Paste Extrusion System
 
+Cartridge assembly
++ 3D print the Bottom, Middle and Top cartridge in petG with atleast 3mm shell thickness and atleast 20% gyroid infill.
++ Drill out the 6 holes of each printed part with a 8mm drill bit.
++ Use sandingpaper to clear any irregularities due to the 3D printing process if any of the parts do not want to fit. 
+WARNING: Be careful when applying force to mate the different parts, this might weaken or break the printed parts.
++ Press the 6 long M8 hexagonal nuts into the hexogonal holes of the printed middle cartridge part.
++ Bollt a M8 domed cap nut on each of the 6 1000mm long M8 threaded rod
++ Add a M8 plain washer on top of the domed cap nuts
++ Take each of the threaded rods with cap nut and washer and put one through each hole of the top cartridge printed part so that the cap nut is on the chamfered side of the top cartridge
++ Take the middle cartridge part and bolt each of the threaded rods into it untill the end of the threaded rod is halfway through the long M8 nut that is pressed into it
++ Slide the transparent PVC tube through the middle cartridge part untill it sits firmly on the ledge of the top cartridge part
++ Press the 1.5" threaded 
